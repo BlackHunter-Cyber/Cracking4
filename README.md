@@ -6,12 +6,13 @@ Coming soon ( Akan Datang )
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```php
+$ cd
 $ pkg update && apt upgrade 
 $ pkg install python git 
 $ rm -fr cracking4
 $ git clone https://github.com/Al-Vino/cracking4
 $ ls (L kecil)
-$ cd $HOME/cracking4
+$ cd cracking4
 $ python crack-4.py
 ```
 # Cara Update
