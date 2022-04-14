@@ -11,7 +11,7 @@ $ pkg install python git
 $ rm -fr cracking4
 $ git clone https://github.com/Al-Vino/cracking4
 $ ls (L kecil)
-$ cd cracking4
+$ cd $HOME/cracking-4
 $ python crack-4.py
 ```
 # Cara Update
