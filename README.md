@@ -1,5 +1,10 @@
 Coming soon ( Akan Datang )
+## WANING IJO IJO
+Memex : Tols Ini masih tahap perkembangan jadi Tungu aja update Selanjutnya🙏
 
+Happy Ending muweheeh😅
+
+## PAKE DOANG NGGA FOLLOW, KONTOL LOO
 
 
 ## Instalation
