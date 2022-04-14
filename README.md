@@ -5,8 +5,11 @@ Memex : Tols Ini masih tahap perkembangan jadi Tungu aja update Selanjutnya🙏
 Happy Ending muweheeh😅
 
 ## PAKE DOANG NGGA FOLLOW, KONTOL LOO
-
-
+🌟 LOGO
+![deskripsi gambar](https://i.ibb.co/wMD8pVH/Screenshot-2022-04-13-12-28-04-850-com-termux.png)
+🌟 RESULTS
+![deskripsi gambar](https://i.ibb.co/QrsjvJN/Screenshot-2022-04-13-06-54-04-785-com-termux.png)
+🐷 Gambar Hanya Pemanis, Selebihnya Cobain Sendiri Ngab🐷
 ## Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
